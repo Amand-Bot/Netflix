@@ -1,1 +1,3 @@
-Netflix
+NETFLIX
+Recriando a interface da netflix
+
